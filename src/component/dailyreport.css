@@ -1,0 +1,39 @@
+
+.bordercolmn{
+    border:1px solid black;
+    align-items: center;
+    display:flex;
+    justify-content: space-between;
+}
+
+.buttonend{
+    display: flex;
+    justify-content: end;
+}
+
+.textplace{
+    padding:5px;
+    align-items: center;
+}
+
+.adilbtn{
+padding: 5px;
+color: white;
+background-color: brown;
+outline: none;
+border: none;
+border-radius: 20%;
+}
+
+.headadil{
+    color: black;
+}
+
+.buttonsave{
+    background-color: green;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 10px;
+    border-radius: 10%;
+}

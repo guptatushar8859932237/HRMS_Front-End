@@ -1,0 +1,13 @@
+{
+    "vscode-janus-debug.uploadOnSave": [
+        "App",
+        "Attendence",
+        "Home",
+        "AttendenceSummary",
+        "sidebarnavbar",
+        "loginform",
+        "LeaveApplication",
+        "LeaveBalance",
+        "App.test"
+    ]
+}

@@ -1,0 +1,50 @@
+*{
+        color: black;
+       
+
+}
+/* .bgcl{
+    background-color: cadetblue;
+} */
+
+
+.inputtypefil{
+    border: none;
+    outline: none;
+border-radius: 5px;
+border: 1px solid purple;
+padding-right:2px ;
+width: 100%;
+text-transform: capitalize;
+padding: 3px;
+
+}
+.inputtypefil:focus{
+    border: 2px solid purple;
+}
+.labelhead{
+    color: purple;
+    font-weight: 400;
+text-transform: capitalize;
+    font-size: 12px;
+}
+
+.firstdiv{
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+}
+.second{
+    width: 48%;
+}
+.third{
+    width: 48%;
+}
+
+.teabletext{
+    font-size: 12px;
+}
+th{
+    font-size: 15px;
+    text-transform: capitalize;
+}

@@ -1,0 +1,88 @@
+
+
+.tabledata{
+font-size: 12px;
+text-transform: capitalize;
+
+
+}
+.tabledata1{
+font-size: 11px;
+
+}
+
+.headtable{
+    text-align: center;
+    font-size:14px;
+   color: white;
+   background-color: black;
+   text-transform: capitalize;
+}
+
+.upperhead{
+    /* border:
+    2px solid red; */
+    text-align: center;
+   
+    
+}
+
+.inpufil{
+    border-radius: 8px;
+    border: none;
+    outline:2px solid #f6f6f6;
+}
+
+.mainheadtable{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    align-self: center;
+}
+
+.pdfbutton1{
+    color:white;
+    background-color:#dc3545 ;
+}
+
+.exelbutton{
+    color:white;
+    background-color:#198754;
+
+}
+
+.buttonadddata{
+display: flex;
+justify-content: flex-end;  
+text-align: center;
+    background-color: #dc3545;
+    color: white;
+    outline: none;
+    padding: 5px;
+    border: none;
+    border-radius: 10%;
+}
+
+.btndlt{
+    color: #dc3545;
+}
+.btnedit{
+    color: #198754;
+}
+.btntext{
+    background-color:#dc3545 ;
+    /* padding: 2px 5px; */
+   
+    color: white;
+    border-radius: 10px;
+    border: 2px solid #dc3545;
+
+}
+.btntext1{
+    background-color:#198754;
+    /* padding: 2px 5px; */
+    color: white;
+    border-radius: 10px;
+    border: 2px solid #198754;
+
+}

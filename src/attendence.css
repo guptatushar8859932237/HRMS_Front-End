@@ -1,0 +1,78 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    /* background-color: white; */
+}
+
+.empodata{
+    color: white;
+  
+}
+
+.navbutton{
+    background-color: blue;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+    text-align: end;
+    outline: none;
+    border: none;
+}
+.navbtnend{
+    text-align: end;
+}
+
+.navcontmaimn{
+display: flex;
+justify-content: space-between;
+text-align: center;
+
+}
+
+.contbox{
+border: 1px solid black;
+color: blue;
+font-weight: 700;
+background:linear-gradient(black);
+}
+
+.border12{
+    border: 1px solid  rgba(0,0,0,.075);
+}
+
+
+.shedontknow{
+  margin: 0px !important;
+    padding: 0 !important;
+}
+.punchbtn{
+background-color: #dc3545 ;
+/* color: white; */
+font-weight: 700;
+border: none;
+outline: none;box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.inputinner{
+    width: 100%;
+}
+
+.btn23{
+    /* background-color: rgb(255, 251, 0); */
+    padding-left:2px ;
+    background-color:  #198754;
+    border: none;
+    outline: none;
+
+}
+.texthide{
+    display: none;
+}
+
+.fonthead{
+    font-size: 14px;
+}
+.fontdata{
+    font-size: 12px;
+}

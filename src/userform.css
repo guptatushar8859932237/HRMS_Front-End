@@ -1,0 +1,7 @@
+ .rouborder{
+border: 2px solid black;
+display: flex;
+justify-content: space-between;
+border :none;
+
+ }

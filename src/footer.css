@@ -1,0 +1,18 @@
+.footer{
+    /* background-color: rgb(3, 3, 49); */
+
+    /* border: 2px solid black; */
+    color:white;
+    /* height: 20vh; */
+    width: 100%;
+    text-align: end;
+}
+
+.fotter{
+    font-family: 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif';
+    color: black;
+    /* background-color:rgb(3, 3, 49) ; */
+    bottom: 0;
+}
+
+

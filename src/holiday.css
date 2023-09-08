@@ -1,0 +1,26 @@
+.heading{
+    text-align: center !important;
+    color:
+    black;
+    font-weight: 700;
+}
+
+.headfont{
+    font-size:1.3em; 
+    background-color: rgb(41, 39, 39);
+}
+
+.tablebord{
+    border: 2px solid black;
+}
+
+.holiday{
+    position: absolute;
+    position: fixed;
+    left: 90%;
+    top: 85%;
+    color: navy;
+    font-size: 2em;
+}
+
+
