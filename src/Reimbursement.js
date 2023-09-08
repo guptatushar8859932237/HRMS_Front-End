@@ -45,7 +45,7 @@ export default function Reimbursement(){
         <>
        hy Payment
 
-     {/* ?hellow mr ansh */}
+     {/* ?hellow mr ansh comment for payment gateway */}
        <Card amount={5000} checkouthandler={checkouthandler}/>
        <Card amount={3000} checkouthandler={checkouthandler}/>
         </>
